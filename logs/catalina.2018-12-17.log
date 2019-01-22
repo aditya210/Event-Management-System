@@ -1,0 +1,48 @@
+Dec 17, 2018 9:12:18 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jre1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp;C:\Python27;C:\Python27\;C:\Python27\Scripts\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Users\admin\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\admin\AppData\Local\Programs\Python\Python36\;C:\Program Files\MongoDB\Server\3.2\bin;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;C:\Users\admin\AppData\Local\Programs\Microsoft VS Code\bin;";C:\Python27\;C:\Python27\Scripts\";C:\cuda\bin;C:\cuda\include;C:\cuda\lib;c:\users\admin\appdata\local\programs\python\python36\Scripts;C:\Users\admin\AppData\Roaming\Python\Python36\Scripts;C:\Users\admin\AppData\Local\atom\bin;C:\Program Files (x86)\Windows Kits\10\Include\\ucrt;"C:\WINDOWS\System32;C:\WINDOWS";C:\Windows\System32\;C:\Python3.6;C:\Users\admin\Miniconda3\envs\car-behavioral-cloning\Scripts;C:\Program Files\Java\jdk1.8.0_101\bin;;.
+Dec 17, 2018 9:12:21 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Dec 17, 2018 9:12:21 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Dec 17, 2018 9:12:21 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 3762 ms
+Dec 17, 2018 9:12:22 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Dec 17, 2018 9:12:22 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.56
+Dec 17, 2018 9:12:22 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\docs
+Dec 17, 2018 9:12:23 AM org.apache.catalina.util.SessionIdGenerator createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [385] milliseconds.
+Dec 17, 2018 9:12:23 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\docs has finished in 865 ms
+Dec 17, 2018 9:12:23 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\event
+Dec 17, 2018 9:12:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\event has finished in 2,308 ms
+Dec 17, 2018 9:12:25 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\examples
+Dec 17, 2018 9:12:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\examples has finished in 1,924 ms
+Dec 17, 2018 9:12:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\host-manager
+Dec 17, 2018 9:12:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\host-manager has finished in 144 ms
+Dec 17, 2018 9:12:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\manager
+Dec 17, 2018 9:12:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\manager has finished in 156 ms
+Dec 17, 2018 9:12:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\mca
+Dec 17, 2018 9:12:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\mca has finished in 922 ms
+Dec 17, 2018 9:12:28 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\ROOT
+Dec 17, 2018 9:12:29 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\apache-tomcat-7.0.56 - Copy\webapps\ROOT has finished in 132 ms
+Dec 17, 2018 9:12:29 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Dec 17, 2018 9:12:29 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Dec 17, 2018 9:12:29 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 7287 ms

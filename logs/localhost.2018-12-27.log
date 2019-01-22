@@ -1,0 +1,30 @@
+Dec 27, 2018 10:29:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 27, 2018 10:29:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 27, 2018 10:29:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@7eb4a643')
+Dec 27, 2018 10:29:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 27, 2018 10:29:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 27, 2018 10:29:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@12ede626')
+Dec 27, 2018 10:29:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 27, 2018 10:29:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 27, 2018 10:29:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@6da32977')
+Dec 27, 2018 10:29:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.runtime.JspApplicationContextImpl', 'org.apache.jasper.runtime.JspApplicationContextImpl@b6f56c3')
+Dec 27, 2018 10:29:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('57D8089D0597F9B496CA1A374053899A')
+Dec 27, 2018 10:30:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('57D8089D0597F9B496CA1A374053899A', 'aid', 'Jasper')
+Dec 27, 2018 10:30:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('57D8089D0597F9B496CA1A374053899A', 'aname', 'Jasper')
+Dec 27, 2018 10:31:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('57D8089D0597F9B496CA1A374053899A', 'custid', 'Aditya')
+Dec 27, 2018 10:31:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('57D8089D0597F9B496CA1A374053899A', 'cname', 'Aditya')

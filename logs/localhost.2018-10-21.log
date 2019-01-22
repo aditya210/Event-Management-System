@@ -1,0 +1,26 @@
+Oct 21, 2018 8:33:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Oct 21, 2018 8:33:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Oct 21, 2018 8:33:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@be04375')
+Oct 21, 2018 8:33:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Oct 21, 2018 8:33:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Oct 21, 2018 8:33:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@35638474')
+Oct 21, 2018 8:33:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Oct 21, 2018 8:33:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Oct 21, 2018 8:33:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@35eea95e')
+Oct 21, 2018 8:34:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.runtime.JspApplicationContextImpl', 'org.apache.jasper.runtime.JspApplicationContextImpl@1d8ebd3e')
+Oct 21, 2018 8:34:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.ELInterpreter', 'org.apache.jasper.compiler.ELInterpreterFactory$DefaultELInterpreter@cd27f14')
+Oct 21, 2018 8:34:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('831528B2330365153507AF0AE46C6EBF')
+Oct 21, 2018 9:06:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionDestroyed('831528B2330365153507AF0AE46C6EBF')

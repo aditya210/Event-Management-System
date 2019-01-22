@@ -1,0 +1,26 @@
+Nov 05, 2018 11:05:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Nov 05, 2018 11:05:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Nov 05, 2018 11:05:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@4d6b8c')
+Nov 05, 2018 11:05:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Nov 05, 2018 11:05:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Nov 05, 2018 11:05:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@4e184527')
+Nov 05, 2018 11:05:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Nov 05, 2018 11:05:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Nov 05, 2018 11:05:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@7808770')
+Nov 05, 2018 11:05:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.runtime.JspApplicationContextImpl', 'org.apache.jasper.runtime.JspApplicationContextImpl@6d95788d')
+Nov 05, 2018 11:05:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('740165DAD41BD4ED4A6F1BD61C2E718E')
+Nov 05, 2018 11:45:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionDestroyed('740165DAD41BD4ED4A6F1BD61C2E718E')
+Nov 05, 2018 11:45:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D10023ADE9174A03EAFFA47F462D38FA')

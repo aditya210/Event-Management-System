@@ -1,0 +1,660 @@
+Dec 03, 2018 12:08:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:08:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:08:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@6b24d2a3')
+Dec 03, 2018 12:08:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:08:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:08:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@2712f714')
+Dec 03, 2018 12:08:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:08:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:08:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@1f774e85')
+Dec 03, 2018 12:08:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:08:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:08:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:08:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:08:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:08:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:15:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:15:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:15:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:15:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:15:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:15:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:15:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:15:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@6990fcdd')
+Dec 03, 2018 12:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@52a1b259')
+Dec 03, 2018 12:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:15:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@17fb8ced')
+Dec 03, 2018 12:15:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.runtime.JspApplicationContextImpl', 'org.apache.jasper.runtime.JspApplicationContextImpl@753c4e1e')
+Dec 03, 2018 12:29:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:29:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:29:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@7f3dc3f6')
+Dec 03, 2018 12:29:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:29:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:29:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@5cc74f3e')
+Dec 03, 2018 12:29:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:29:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:29:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@11328d36')
+Dec 03, 2018 12:29:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.runtime.JspApplicationContextImpl', 'org.apache.jasper.runtime.JspApplicationContextImpl@352609a')
+Dec 03, 2018 12:29:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B4B7106BFBFBC8702A1549180D928AFA')
+Dec 03, 2018 12:32:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:32:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:32:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:32:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:32:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:32:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:32:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:32:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:32:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@991b868')
+Dec 03, 2018 12:32:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:32:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:32:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@3a398c96')
+Dec 03, 2018 12:32:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:32:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:32:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@4d2091b1')
+Dec 03, 2018 12:32:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.runtime.JspApplicationContextImpl', 'org.apache.jasper.runtime.JspApplicationContextImpl@1b6c2e72')
+Dec 03, 2018 12:33:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.ELInterpreter', 'org.apache.jasper.compiler.ELInterpreterFactory$DefaultELInterpreter@5a089da4')
+Dec 03, 2018 12:38:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:38:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:38:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@7ecfc284')
+Dec 03, 2018 12:38:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:38:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:38:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@2de16e37')
+Dec 03, 2018 12:38:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:38:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:38:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@532cfa7e')
+Dec 03, 2018 12:38:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:38:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:38:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:38:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:38:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:38:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:39:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:39:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:39:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:39:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:39:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:39:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:39:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:39:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:39:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@35a37ec0')
+Dec 03, 2018 12:39:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:39:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:39:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@1f8a183e')
+Dec 03, 2018 12:39:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:39:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:39:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@2a15719f')
+Dec 03, 2018 12:39:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.runtime.JspApplicationContextImpl', 'org.apache.jasper.runtime.JspApplicationContextImpl@1e12858')
+Dec 03, 2018 12:39:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('B4B7106BFBFBC8702A1549180D928AFA', 'aid', 'Ajit')
+Dec 03, 2018 12:39:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('B4B7106BFBFBC8702A1549180D928AFA', 'aname', 'Ajit')
+Dec 03, 2018 12:39:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.ELInterpreter', 'org.apache.jasper.compiler.ELInterpreterFactory$DefaultELInterpreter@70540a84')
+Dec 03, 2018 12:47:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:47:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:47:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@2a81c585')
+Dec 03, 2018 12:47:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:47:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:47:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@3edbaf3c')
+Dec 03, 2018 12:47:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 12:47:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 12:47:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@2a6089e')
+Dec 03, 2018 12:47:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:47:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:47:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:47:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:47:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 12:47:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:48:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('B4B7106BFBFBC8702A1549180D928AFA', 'aid', 'Ajit')
+Dec 03, 2018 12:48:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('B4B7106BFBFBC8702A1549180D928AFA', 'aname', 'Ajit')
+Dec 03, 2018 12:50:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('B4B7106BFBFBC8702A1549180D928AFA', 'aid', 'Jasper')
+Dec 03, 2018 12:50:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('B4B7106BFBFBC8702A1549180D928AFA', 'aname', 'Jasper')
+Dec 03, 2018 1:01:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('B4B7106BFBFBC8702A1549180D928AFA', 'aid', 'Jasper')
+Dec 03, 2018 1:01:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('B4B7106BFBFBC8702A1549180D928AFA', 'aname', 'Jasper')
+Dec 03, 2018 1:03:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionDestroyed('B4B7106BFBFBC8702A1549180D928AFA')
+Dec 03, 2018 1:03:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('B4B7106BFBFBC8702A1549180D928AFA', 'aname', 'Jasper')
+Dec 03, 2018 1:03:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('B4B7106BFBFBC8702A1549180D928AFA', 'aid', 'Jasper')
+Dec 03, 2018 1:03:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('31B0B7BD63A522DB26858B2DB0660728')
+Dec 03, 2018 1:04:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('31B0B7BD63A522DB26858B2DB0660728', 'custid', 'Aditya')
+Dec 03, 2018 1:04:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('31B0B7BD63A522DB26858B2DB0660728', 'cname', 'Aditya')
+Dec 03, 2018 1:04:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionDestroyed('31B0B7BD63A522DB26858B2DB0660728')
+Dec 03, 2018 1:04:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('31B0B7BD63A522DB26858B2DB0660728', 'custid', 'Aditya')
+Dec 03, 2018 1:04:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('31B0B7BD63A522DB26858B2DB0660728', 'cname', 'Aditya')
+Dec 03, 2018 1:04:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('67C9F2B5D9B6AF926B7AC4BDF071649B')
+Dec 03, 2018 1:06:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('67C9F2B5D9B6AF926B7AC4BDF071649B', 'aid', 'Jasper')
+Dec 03, 2018 1:06:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('67C9F2B5D9B6AF926B7AC4BDF071649B', 'aname', 'Jasper')
+Dec 03, 2018 1:10:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 1:10:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 1:10:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@1efc3414')
+Dec 03, 2018 1:10:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 1:10:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 1:10:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@6f7f4353')
+Dec 03, 2018 1:10:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 1:10:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 1:10:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@55c90ebf')
+Dec 03, 2018 1:10:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 1:10:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 1:10:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 1:10:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 1:10:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 1:10:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@150afe14')
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@3234a259')
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@40b5526f')
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 1:10:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 1:10:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 1:10:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 1:10:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@41eda712')
+Dec 03, 2018 1:10:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 1:10:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 1:10:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@2987641')
+Dec 03, 2018 1:10:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 1:10:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 1:10:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@3491b10f')
+Dec 03, 2018 1:11:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.runtime.JspApplicationContextImpl', 'org.apache.jasper.runtime.JspApplicationContextImpl@4bdcd40e')
+Dec 03, 2018 1:11:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('68F0C8EAF66134EBCF30F74C3F4E4C6E')
+Dec 03, 2018 11:07:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 11:07:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 11:07:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@7eb4a643')
+Dec 03, 2018 11:07:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 11:07:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 11:07:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@12ede626')
+Dec 03, 2018 11:07:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 11:07:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 11:07:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@6da32977')
+Dec 03, 2018 11:07:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.runtime.JspApplicationContextImpl', 'org.apache.jasper.runtime.JspApplicationContextImpl@3a87c643')
+Dec 03, 2018 11:07:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('828054409CC3A45FDE51CCA849F71453')
+Dec 03, 2018 11:07:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('828054409CC3A45FDE51CCA849F71453', 'aid', 'Jasper')
+Dec 03, 2018 11:07:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('828054409CC3A45FDE51CCA849F71453', 'aname', 'Jasper')
+Dec 03, 2018 11:11:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.ELInterpreter', 'org.apache.jasper.compiler.ELInterpreterFactory$DefaultELInterpreter@581725e0')
+Dec 03, 2018 11:33:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('828054409CC3A45FDE51CCA849F71453', 'custid', 'Aditya')
+Dec 03, 2018 11:33:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('828054409CC3A45FDE51CCA849F71453', 'cname', 'Aditya')
+Dec 03, 2018 11:44:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 11:44:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 11:44:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@150afe14')
+Dec 03, 2018 11:44:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 11:44:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 11:44:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@3234a259')
+Dec 03, 2018 11:44:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 11:44:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 11:44:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@40b5526f')
+Dec 03, 2018 11:44:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 11:44:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 11:44:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 11:44:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 11:44:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Dec 03, 2018 11:44:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Dec 03, 2018 12:15:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionDestroyed('828054409CC3A45FDE51CCA849F71453')
+Dec 03, 2018 12:15:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('828054409CC3A45FDE51CCA849F71453', 'aname', 'Jasper')
+Dec 03, 2018 12:15:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('828054409CC3A45FDE51CCA849F71453', 'custid', 'Aditya')
+Dec 03, 2018 12:15:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('828054409CC3A45FDE51CCA849F71453', 'cname', 'Aditya')
+Dec 03, 2018 12:15:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('828054409CC3A45FDE51CCA849F71453', 'aid', 'Jasper')
+Dec 03, 2018 1:00:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('39177D502330477678E08F8C6C640876')
+Dec 03, 2018 1:10:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('39177D502330477678E08F8C6C640876', 'aid', 'Jasper')
+Dec 03, 2018 1:10:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('39177D502330477678E08F8C6C640876', 'aname', 'Jasper')
+Dec 03, 2018 1:11:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('39177D502330477678E08F8C6C640876', 'custid', 'Aditya')
+Dec 03, 2018 1:11:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('39177D502330477678E08F8C6C640876', 'cname', 'Aditya')
+Dec 03, 2018 1:11:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('39177D502330477678E08F8C6C640876', 'custid', 'Aditya')
+Dec 03, 2018 1:11:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('39177D502330477678E08F8C6C640876', 'cname', 'Aditya')
+Dec 03, 2018 1:12:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('39177D502330477678E08F8C6C640876', 'aid', 'Jasper')
+Dec 03, 2018 1:12:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('39177D502330477678E08F8C6C640876', 'aname', 'Jasper')
+Dec 03, 2018 1:15:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('39177D502330477678E08F8C6C640876', 'aid', 'Jasper')
+Dec 03, 2018 1:15:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('39177D502330477678E08F8C6C640876', 'aname', 'Jasper')
+Dec 03, 2018 1:18:01 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/event] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: 17 in the jsp file: /manage_food.jsp
+The method getConnection(String, Properties) in the type DriverManager is not applicable for the arguments (String, String)
+14: <%@page import="java.sql.*" errorPage="err.jsp"%>
+15: <%
+16: 	Class.forName("com.mysql.jdbc.Driver");
+17: 	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/event","jasper");
+18: 	
+19: %>
+20: <link type='text/css' rel='stylesheet' href='style.css'>
+
+
+Stacktrace:] with root cause
+org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: 17 in the jsp file: /manage_food.jsp
+The method getConnection(String, Properties) in the type DriverManager is not applicable for the arguments (String, String)
+14: <%@page import="java.sql.*" errorPage="err.jsp"%>
+15: <%
+16: 	Class.forName("com.mysql.jdbc.Driver");
+17: 	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/event","jasper");
+18: 	
+19: %>
+20: <link type='text/css' rel='stylesheet' href='style.css'>
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:366)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:485)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:379)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:354)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:341)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:657)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:357)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:503)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1070)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+
+Dec 03, 2018 1:18:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionDestroyed('39177D502330477678E08F8C6C640876')
+Dec 03, 2018 1:18:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('39177D502330477678E08F8C6C640876', 'aname', 'Jasper')
+Dec 03, 2018 1:18:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('39177D502330477678E08F8C6C640876', 'custid', 'Aditya')
+Dec 03, 2018 1:18:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('39177D502330477678E08F8C6C640876', 'cname', 'Aditya')
+Dec 03, 2018 1:18:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('39177D502330477678E08F8C6C640876', 'aid', 'Jasper')
+Dec 03, 2018 1:18:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('CC806E6E11FBEB334EB0812247549140')
+Dec 03, 2018 1:23:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('CC806E6E11FBEB334EB0812247549140', 'aid', 'Jasper')
+Dec 03, 2018 1:23:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('CC806E6E11FBEB334EB0812247549140', 'aname', 'Jasper')
+Dec 03, 2018 1:23:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('CC806E6E11FBEB334EB0812247549140', 'custid', 'Aditya')
+Dec 03, 2018 1:23:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('CC806E6E11FBEB334EB0812247549140', 'cname', 'Aditya')
+Dec 03, 2018 1:25:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('CC806E6E11FBEB334EB0812247549140', 'aid', 'Jasper')
+Dec 03, 2018 1:25:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('CC806E6E11FBEB334EB0812247549140', 'aname', 'Jasper')
+Dec 03, 2018 1:57:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionDestroyed('CC806E6E11FBEB334EB0812247549140')
+Dec 03, 2018 1:57:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('CC806E6E11FBEB334EB0812247549140', 'aname', 'Jasper')
+Dec 03, 2018 1:57:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('CC806E6E11FBEB334EB0812247549140', 'custid', 'Aditya')
+Dec 03, 2018 1:57:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('CC806E6E11FBEB334EB0812247549140', 'cname', 'Aditya')
+Dec 03, 2018 1:57:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('CC806E6E11FBEB334EB0812247549140', 'aid', 'jasper')
+Dec 03, 2018 3:31:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 3:31:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 3:31:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@15eb4f8f')
+Dec 03, 2018 3:31:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 3:31:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 3:31:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@21ab9cd1')
+Dec 03, 2018 3:31:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Dec 03, 2018 3:31:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Dec 03, 2018 3:31:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@5719b223')
+Dec 03, 2018 3:31:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.runtime.JspApplicationContextImpl', 'org.apache.jasper.runtime.JspApplicationContextImpl@4a146179')
+Dec 03, 2018 3:31:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E4095EDE6DCC453FC4E1E4E8E1E39733')
+Dec 03, 2018 3:32:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('E4095EDE6DCC453FC4E1E4E8E1E39733', 'aid', 'Jasper')
+Dec 03, 2018 3:32:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('E4095EDE6DCC453FC4E1E4E8E1E39733', 'aname', 'Jasper')
+Dec 03, 2018 3:32:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('E4095EDE6DCC453FC4E1E4E8E1E39733', 'custid', 'Aditya')
+Dec 03, 2018 3:32:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('E4095EDE6DCC453FC4E1E4E8E1E39733', 'cname', 'Aditya')
+Dec 03, 2018 3:33:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.ELInterpreter', 'org.apache.jasper.compiler.ELInterpreterFactory$DefaultELInterpreter@3a6cf3b9')
+Dec 03, 2018 3:38:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionDestroyed('E4095EDE6DCC453FC4E1E4E8E1E39733')
+Dec 03, 2018 3:38:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('E4095EDE6DCC453FC4E1E4E8E1E39733', 'aname', 'Jasper')
+Dec 03, 2018 3:38:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('E4095EDE6DCC453FC4E1E4E8E1E39733', 'custid', 'Aditya')
+Dec 03, 2018 3:38:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('E4095EDE6DCC453FC4E1E4E8E1E39733', 'cname', 'Aditya')
+Dec 03, 2018 3:38:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('E4095EDE6DCC453FC4E1E4E8E1E39733', 'aid', 'Jasper')
+Dec 03, 2018 3:38:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F3474AA276975F5A1018DE3288F959D0')
+Dec 03, 2018 3:41:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('F3474AA276975F5A1018DE3288F959D0', 'aid', 'Jasper')
+Dec 03, 2018 3:41:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('F3474AA276975F5A1018DE3288F959D0', 'aname', 'Jasper')
+Dec 03, 2018 3:46:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('F3474AA276975F5A1018DE3288F959D0', 'aid', 'Jasper')
+Dec 03, 2018 3:46:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('F3474AA276975F5A1018DE3288F959D0', 'aname', 'Jasper')
+Dec 03, 2018 3:51:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('F3474AA276975F5A1018DE3288F959D0', 'aid', 'Jasper')
+Dec 03, 2018 3:51:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('F3474AA276975F5A1018DE3288F959D0', 'aname', 'Jasper')
+Dec 03, 2018 3:54:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('F3474AA276975F5A1018DE3288F959D0', 'custid', 'Aditya')
+Dec 03, 2018 3:54:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('F3474AA276975F5A1018DE3288F959D0', 'cname', 'Aditya')
+Dec 03, 2018 3:55:41 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/event] threw exception [Unable to compile class for JSP: 
+
+An error occurred at line: 40 in the jsp file: /manage_venue.jsp
+Duplicate local variable con
+37: 	Class.forName("org.postgresql.Driver");
+38: 	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/event","root","jasper");
+39: 	Class.forName("com.mysql.jdbc.Driver");
+40: 	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/event","root","jasper");
+41: %>
+42: <link type='text/css' rel='stylesheet' href='style.css'>
+43: <article>
+
+
+Stacktrace:] with root cause
+org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: 40 in the jsp file: /manage_venue.jsp
+Duplicate local variable con
+37: 	Class.forName("org.postgresql.Driver");
+38: 	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/event","root","jasper");
+39: 	Class.forName("com.mysql.jdbc.Driver");
+40: 	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/event","root","jasper");
+41: %>
+42: <link type='text/css' rel='stylesheet' href='style.css'>
+43: <article>
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:366)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:485)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:379)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:354)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:341)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:657)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:357)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:727)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:503)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:950)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:421)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1070)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:611)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:314)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+
+Dec 03, 2018 4:00:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('F3474AA276975F5A1018DE3288F959D0', 'aid', 'Jasper')
+Dec 03, 2018 4:00:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('F3474AA276975F5A1018DE3288F959D0', 'aname', 'Jasper')
+Dec 03, 2018 4:27:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('F3474AA276975F5A1018DE3288F959D0', 'custid', 'Aditya')
+Dec 03, 2018 4:27:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('F3474AA276975F5A1018DE3288F959D0', 'cname', 'Aditya')
+Dec 03, 2018 4:28:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('F3474AA276975F5A1018DE3288F959D0', 'aid', 'Jasper')
+Dec 03, 2018 4:28:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('F3474AA276975F5A1018DE3288F959D0', 'aname', 'Jasper')
+Dec 03, 2018 4:49:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('F3474AA276975F5A1018DE3288F959D0', 'aid', 'Jasper')
+Dec 03, 2018 4:49:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeReplaced('F3474AA276975F5A1018DE3288F959D0', 'aname', 'Jasper')

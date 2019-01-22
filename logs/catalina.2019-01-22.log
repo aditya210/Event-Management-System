@@ -1,0 +1,48 @@
+Jan 22, 2019 10:16:58 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jre1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp;C:\Python27;C:\Python27\;C:\Python27\Scripts\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\admin\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\admin\AppData\Local\Programs\Python\Python36\;C:\Program Files\MongoDB\Server\3.2\bin;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;C:\Users\admin\AppData\Local\Programs\Microsoft VS Code\bin;";C:\Python27\;C:\Python27\Scripts\";C:\cuda\bin;C:\cuda\include;C:\cuda\lib;c:\users\admin\appdata\local\programs\python\python36\Scripts;C:\Users\admin\AppData\Roaming\Python\Python36\Scripts;C:\Users\admin\AppData\Local\atom\bin;C:\Program Files (x86)\Windows Kits\10\Include\\ucrt;"C:\WINDOWS\System32;C:\WINDOWS";C:\Windows\System32\;C:\Python3.6;C:\Users\admin\Miniconda3\envs\car-behavioral-cloning\Scripts;C:\Program Files\Java\jdk1.8.0_101\bin;;.
+Jan 22, 2019 10:16:59 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Jan 22, 2019 10:16:59 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jan 22, 2019 10:16:59 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1962 ms
+Jan 22, 2019 10:17:00 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jan 22, 2019 10:17:00 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.56
+Jan 22, 2019 10:17:00 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\docs
+Jan 22, 2019 10:17:02 AM org.apache.catalina.util.SessionIdGenerator createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [1,099] milliseconds.
+Jan 22, 2019 10:17:02 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\docs has finished in 2,106 ms
+Jan 22, 2019 10:17:02 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\event
+Jan 22, 2019 10:17:06 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\event has finished in 4,274 ms
+Jan 22, 2019 10:17:06 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\examples
+Jan 22, 2019 10:17:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\examples has finished in 2,561 ms
+Jan 22, 2019 10:17:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\host-manager
+Jan 22, 2019 10:17:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\host-manager has finished in 165 ms
+Jan 22, 2019 10:17:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\manager
+Jan 22, 2019 10:17:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\manager has finished in 132 ms
+Jan 22, 2019 10:17:09 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\mca
+Jan 22, 2019 10:17:10 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\mca has finished in 1,220 ms
+Jan 22, 2019 10:17:10 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\ROOT
+Jan 22, 2019 10:17:10 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\admin\Desktop\Event_Management_System\webapps\ROOT has finished in 132 ms
+Jan 22, 2019 10:17:10 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Jan 22, 2019 10:17:10 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jan 22, 2019 10:17:10 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 10816 ms
